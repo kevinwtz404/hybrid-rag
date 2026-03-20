@@ -1,0 +1,5 @@
+{
+  "query": "What changed in our onboarding workflow this quarter?",
+  "sources": ["playbook.md", "ops-notes.md"],
+  "sensitivity": "medium"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "rag-query",
+  "type": "object",
+  "required": ["query", "sources"],
+  "properties": {
+    "query": { "type": "string" },
+    "sources": { "type": "array", "items": { "type": "string" } },
+    "sensitivity": { "type": "string", "enum": ["low", "medium", "high"] }
+  }
+}
