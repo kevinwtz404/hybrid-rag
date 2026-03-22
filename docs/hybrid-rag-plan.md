@@ -1,8 +1,7 @@
 # hybrid-rag plan (draft v0)
 
 status: in progress
-owner: cynthia
-last updated: 2026-03-20 19:07 GMT
+last updated: 2026-03-22 20:16 GMT
 
 ## purpose
 Ship a privacy-first hybrid RAG reference for enterprise knowledge workflows.
