@@ -15,3 +15,6 @@ Provide an off-the-shelf, production-oriented RAG reference architecture that te
 - organisation readiness scoring (`ai-readiness`)
 - workflow adoption decision logic (`adoption-eval`)
 - autonomous agent workflow replacement (`edge-agent`)
+
+## archived docs
+Legacy planning and draft evaluation notes are kept in `docs/archive/`.
